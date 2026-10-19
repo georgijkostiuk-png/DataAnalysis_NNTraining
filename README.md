@@ -1,1 +1,1 @@
-# DataAnalysis_NumericalData_CategoricalData_NeuralNetworkTraining
+# DataAnalysis_NeuralNetworkTraining
