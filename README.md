@@ -1,2 +1,2 @@
 # DataAnalysis_NeuralNetworkTraining
-End-to-end Python automation pipeline for job search: browser-automated web scraping, local LLM job-matching (Ollama, schema-constrained JSON extraction), SQLite-backed tracking/deduplication, automated email digests via SMTP/Gmail API.
+ML classification of CKD from mixed clinical data (UCI, 400 patients). Categorical features: binary encoding, imputation, decision tree and neural network (96.3% test accuracy). Numerical features: outlier and correlation analysis, selection and scaling of key lab values. Combining both data types raised accuracy to 98.8% (Keras/TensorFlow, scikit-learn, pandas).
